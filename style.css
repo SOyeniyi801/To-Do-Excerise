@@ -1,0 +1,17 @@
+body {
+  background-color:#FE34F8;
+  text-align: center
+}
+
+.body-container {
+  padding: 10px;
+}
+
+h2{
+    color:white;
+    font-family: "Russo";
+}
+
+h4{
+    color: #54CEFF;
+}
