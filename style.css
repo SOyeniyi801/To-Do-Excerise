@@ -9,9 +9,24 @@ body {
 
 h2{
     color:white;
-    font-family: "Russo";
+    font-family: 'Russo One', sans-serif;
+    font-weight: 800;
+    margin-bottom: 5px;
 }
 
 h4{
     color: #54CEFF;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 5px;
+}
+
+#userInput{
+    width: 20%;
+    margin-top: 30px;
+}
+.instructions p{
+    margin-top:-2px;
+    margin-bottom: 2px;
+    color: #FFCD5D;
+    font-family: 'Dosis', sans-serif;
 }
